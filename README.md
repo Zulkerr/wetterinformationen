@@ -11,6 +11,6 @@ Ein einfaches Python-Projekt, das Wetterinformationen für eine eingegebene Stad
 
 1. Klone das Repository:
    ```bash
-   git clone https://github.com/DeinBenutzername/wetterinformationen.git
+   git clone https://github.com/Zulkerr/wetterinformationen.git
    cd wetterinformationen
 "# Wetterinformationen" 
